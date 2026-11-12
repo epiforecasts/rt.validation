@@ -1,6 +1,8 @@
 
 # Validation of time-varying reproduction number estimates
 
+> **Archived.** No longer maintained; last updated March 2021.
+
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 [![R build
